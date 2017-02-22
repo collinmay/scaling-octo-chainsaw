@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bot4.iml" filepath="$PROJECT_DIR$/bot4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwdrivers/hwdrivers.iml" filepath="$PROJECT_DIR$/hwdrivers/hwdrivers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robotd/robotd.iml" filepath="$PROJECT_DIR$/robotd/robotd.iml" />
+    </modules>
+  </component>
+</project>
